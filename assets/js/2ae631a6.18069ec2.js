@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclinw=self.webpackChunkclinw||[]).push([[3506],{4887:l=>{l.exports=JSON.parse('{"permalink":"/clinw-publish/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclinw=self.webpackChunkclinw||[]).push([[5632],{4833:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/clinw-publish/blog/tags/hola","allTagsPath":"/clinw-publish/blog/tags","count":1}')}}]);
